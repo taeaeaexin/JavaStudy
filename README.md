@@ -4,7 +4,7 @@
 <br>
 
 ## 자바 언어의 기초
-### [01 자바 시작하기](https://gym-developer.tistory.com/120)
+### [01 자바 시작하기](https://gym-developer.tistory.com/128)
 ### 02 변수와 타입
 ### 03 연산자
 ### 04 조건문과 반복문
